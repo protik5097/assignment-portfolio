@@ -116,6 +116,22 @@ hr {
     font-size: 60px;
 }
 
+.donate-us {
+    display: flex;
+    width: 58%;
+    margin-left: 300px;
+    padding-left: 59px;
+}
+
+.helpless {
+    margin-left: 20px;
+}
+
+.donate-us img {
+    width: 116%;
+    margin-left: 100px;
+}
+
 .email-box {
     background-color: #f3dd162e;
     width: 50%;
