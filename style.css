@@ -108,10 +108,35 @@ hr {
     background-color: rgba(243, 135, 98, 0.397);
 }
 
+.get-updates {
+    text-align: center;
+}
+
+.get-updates h1 {
+    font-size: 60px;
+}
+
+.email-box {
+    background-color: #f3dd162e;
+    width: 50%;
+    margin-left: 335px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.bg-color {
+    background-color: indianred;
+    color: white;
+    padding: 5px 20px;
+    font-size: 15px;
+}
 
 footer {
     background-color: black;
     text-align: center;
     padding-top: 1px;
     padding-bottom: 10px;
+    color: white;
 }
